@@ -2,7 +2,7 @@ module github.com/txaty/merkle-tree-bench
 
 go 1.21
 
-toolchain go1.21.3
+toolchain go1.21.4
 
 require (
 	github.com/cbergoon/merkletree v0.2.0
